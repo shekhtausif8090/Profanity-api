@@ -8,7 +8,10 @@ const Navbar = () => {
         <div className="flex justify-between items-center">
           <div className="flex">
             <img src="/swear-emoji.png" className="h-6 w-6 mr-1" alt="image" />
-            <Link href="/" className="text-xl font-bold tracking-tight">
+            <Link
+              href="https://github.com/shekhtausif8090/Profanity-api"
+              className="text-xl font-bold tracking-tight"
+            >
               ProfanityAPI
             </Link>
           </div>
